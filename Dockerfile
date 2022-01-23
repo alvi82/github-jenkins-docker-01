@@ -1,2 +1,2 @@
 FROM hashicorp/http-echo
-CMD ["-text=test2"]
+CMD ["-text=test3"]
